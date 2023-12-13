@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+	
+}
+
+.colorl{
+	color: grey;
+}
+
+.titulo-principal {
+    font-size: 50px;
+    color: gray;
+}
+
+.header-principal {
+    height: 100px;
+    background-color: #7bd0f5;
+    margin-top: 0;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+}
+
+#branding-principal {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column; /* Cambiado de 'space-between' a 'column' */
+    align-items: center;
+}
+
+.topNav-principal {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.topNav-principal li {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.topNav-principal li a {
+    text-decoration: none;
+    color: #FFF;
+    background-color: #808281;
+    padding: 5px 10px;
+    display: block;
+}
+
+.topNav-principal li a:hover {
+    background-color: #dddcdc;
+    color: #000;
+}
+
+.topNavLast-principal {
+    margin-right: 0;
+}
+
+.clear-principal {
+    clear: both;
+}
+
+.panelnoticias-principal{
+	margin-left: 150px;
+    margin-top: 10px;
+}
+
+.marca-principal img {
+    width: 50px;
+    height: 80px;
+    margin-right: 10px;
+}
+
+.footerLogos-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    padding: 20px;
+}
+
+.logop-principal {
+    width: 275px;
+	justify-content: center;
+    padding: 5px;
+    display: flex;
+}
+
+
+.news-container-principal {
+    margin-left: 80px;
+	margin-right: 80px;
+    margin-top: 20px; /* Ajusta según sea necesario */
+}
+
+.midBox2-principal {
+	margin-left: 80px;
+	margin-right: 80px;
+    margin-bottom: 20px; /* Ajusta según sea necesario */
+}
+/*Hasta aquí es la parte principal(index)*/
+
+
+.form-contacto 
+{
+    background-color:  #7bd0f5;
+    font-family: "Times New Roman", sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px  gray;
+    max-width: 400px;
+    width: 100%;
+	height: 400px;
+    float:inline-end;
+	margin-left: 500px;
+	margin-right: 530px;
+}
+
+.tituloformulario-contacto{
+	font-size: 30px;
+    color: gray;
+}
+
+label 
+{
+    display: block;
+    margin-bottom: 8px;
+    
+}
+
+input, select, textarea 
+{
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] 
+{
+    background-color:  #7bd0f5;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover 
+{
+    background-color:  #7bd0f5;
+}
+/*Hasta aquí la parte del contacto*/
+
+.links-red{
+	margin-left: 150px;
+	margin-right: 150px;
+	width: 800px;
+    height: 300px;
+    padding: 20px; /* Espaciado interno */
+    background-color: #7bd0f5; /* Color de fondo */
+    text-align: center; /* Alineación del texto en el centro */
+	list-style: gray;
+}
+/*Hasta aquí la parte de la red*/
+
+
+.fakenews-tema{
+	margin-left: 150px;
+	margin-right: 150px;
+    margin-bottom: 20px; 
+}
+/*Hasta aquí la parte del tema*/
+
+
+.info-sobremi{
+	margin-left: 150px;
+	margin-right: 150px;
+    margin-bottom: 20px; 
+}
+/*Hasta aquí la parte sobre mi*/
+
+
+.temas-FII{
+	margin-left: 150px;
+	margin-right: 150px;
+    margin-bottom: 20px; 
+}
+.tema2-FII{
+	margin-left: 150px;
+	margin-right: 150px;
+    margin-bottom: 20px; 
+}
+.img{
+	margin-left: 250px;
+	margin-right: 250px;
+    margin-bottom: 20px;
+}
