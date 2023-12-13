@@ -4,7 +4,7 @@ La pagina se tiene que ver en una pantalla 1920*1080 en el navegador edge a 100%
 # Quien soy
 Blanca Pérez Casado, alumna de 1º de Ingenieria Informática en la universidad UFV
 
-# descripción de la wed
+# descripción de la web
 Es una página web que la he querido diseñar como si fuera un periódico. En el inicio se pueden observar una serie de noticias en las que he escrito una pequeña introducción, alguna foto y un link para que te lleve a la noticia por si el lector quisiera saber más. También en el inicio se puede apreciar los logos de distintos periódicos en los que si pinchas en ellos te llevan a la web de dicho periódico.
 Además, hay unas subpáginas, en primer lugar tenemos "CONTACTO" en esta parte se encuentra un formulario por si alguien me quisiera decir algo (este no está ligado con mi gmail, asi que no me llegaría nada). En segundo lugar, tenemos "RED" que están algunos de los links de mis compañeros de clase. En trcer lugar, tenemos "TEMA" esta parte doy información sobre mi tema del trabajo en crupos, en este se habla sobre las Fake News. En cuarto lugar, se encuentra un apartado "SOBRE MI" que como bien dice es una subpágina en la que cuento cosas sobre mi, algo muy parecido a un curriculum. Por último se encuentra la página de "FII" aquí hablo sobre los temas trabajados en clase y en la que hay una subpágina donde explico uno de los temas que más me han llamado la atención.
 
